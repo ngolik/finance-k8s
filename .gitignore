@@ -35,3 +35,4 @@ build/
 charts/eureka/values.yaml
 values.yaml
 
+!/charts/**/values.yaml
