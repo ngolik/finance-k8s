@@ -32,9 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 *.env
-charts/eureka/values.yaml
-values.yaml
 
-!/charts/eureka/values.yaml
-!/charts/auth-service/values.yaml
-!/charts/api-gateway/values.yaml
+/charts/eureka/values.yaml
+/charts/auth-service/values.yaml
+/charts/api-gateway/values.yaml
