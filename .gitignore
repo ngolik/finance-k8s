@@ -32,6 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 *.env
-charts/*/values.yaml
+charts/eureka/values.yaml
 values.yaml
 
