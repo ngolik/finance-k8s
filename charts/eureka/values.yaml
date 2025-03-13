@@ -16,3 +16,4 @@ config:
 ingress:
   enabled: true
   hostname: eureka.finance.com
+fa
